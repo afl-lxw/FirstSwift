@@ -6,6 +6,13 @@
 //
 
 import Foundation
+var name = "liuxiaowen"
 
-print("Hello, World!")
+print(type(of: name))
 
+var array = (
+    "liux","xiaowen"
+)
+
+print(name)
+print(array)
